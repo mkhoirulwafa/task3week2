@@ -15,4 +15,3 @@ fetch("http://jsonplaceholder.typicode.com/users")
         container.insertAdjacentHTML('afterbegin', hasilAkhir) //tampil di page html
     })
     .catch(err => console.log(err))
-    // .then(data => console.log(data))
